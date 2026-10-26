@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://suleimancertificates.github.io/">
+    <img src="https://raw.githubusercontent.com/SuleimanCertificates/SuleimanCertificates.github.io/main/logo.png" width="160" height="160" alt="Suleiman Certificates Official Logo" style="border-radius: 36px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  </a>
+</p>
+
 # 🏛️ Suleiman Certificates (SuleimanCertificates)
 
 [![Live Showcase Website](https://img.shields.io/badge/Live%20Showcase-suleimancertificates.github.io-2ea44f?style=for-the-badge&logo=googlechrome)](https://suleimancertificates.github.io/)
